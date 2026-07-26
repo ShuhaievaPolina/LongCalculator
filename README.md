@@ -7,28 +7,18 @@ Standard numeric types in most programming languages are limited to a fixed numb
 
 Features
 
-Custom data structure for storing digits of arbitrarily large numbers, bypassing built-in integer size limitations
+Custom data structure for storing digits of arbitrarily large numbers, bypassing built-in integer size limitations<br>
+Addition of two arbitrary-precision numbers<br>
+Subtraction with correct handling of sign and borrowing<br>
+Multiplication implemented from scratch at the digit level<br>
+Division of arbitrary-precision numbers<br>
+Exponentiation (raising a number to a power)<br>
+Factorial computation for arbitrarily large inputs<br>
+Save results to file, allowing calculation history/output to be stored and reviewed later<br>
 
-Addition of two arbitrary-precision numbers
-
-Subtraction with correct handling of sign and borrowing
-
-Multiplication implemented from scratch at the digit level
-
-Division of arbitrary-precision numbers
-
-Exponentiation (raising a number to a power)
-
-Factorial computation for arbitrarily large inputs
-
-Save results to file, allowing calculation history/output to be stored and reviewed later
-
-Tech Stack
-
-Language: C#
-
+Tech Stack<br>
+Language: C#<br>
 Interface: Console application
-
 
 Motivation
 
